@@ -38,7 +38,7 @@ The application is structured into three major functional modules, providing a l
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [Your-GitHub-Repository-URL]
+    git clone https://github.com/yash25bai11046-arch/vityarthi-project.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -48,7 +48,7 @@ The application is structured into three major functional modules, providing a l
 ### Execution
 1.  Run the Python script directly from your terminal:
     ```bash
-    python your_calculator_script.py
+    python Vityarthi project.py
     ```
 
 ---
