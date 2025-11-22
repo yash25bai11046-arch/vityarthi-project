@@ -1,37 +1,36 @@
-# 🧮 Scientific Calculator GUI
+## Scientific Calculator GUI
 
-## 💡 Project Title
-[cite_start]**Scientific Calculator using Tkinter** [cite: 89]
-
----
-
-## 📄 Overview of the Project
-This project implements a fully functional **Scientific Calculator** as a desktop application. [cite_start]Built using **Python** and the **Tkinter** library for the Graphical User Interface (GUI), the calculator aims to provide a comprehensive tool for both **basic arithmetic** and **advanced scientific computations**[cite: 90].
-
-[cite_start]The goal of this project is to apply core programming and object-oriented concepts to build a practical application[cite: 8].
+## Project Title
+**Scientific Calculator using Tkinter** 
 
 ---
 
-## [cite_start]✨ Features (Functional Requirements) [cite: 65, 92]
-[cite_start]The application is structured into three major functional modules [cite: 21][cite_start], providing a logical workflow [cite: 23] [cite_start]and clear input/output[cite: 22].
+##  Overview of the Project
+This project implements a fully functional **Scientific Calculator** as a desktop application.Built using **Python** and the **Tkinter** library for the Graphical User Interface (GUI), the calculator aims to provide a comprehensive tool for both **basic arithmetic** and **advanced scientific computations**
+
+The goal of this project is to apply core programming and object-oriented concepts to build a practical application.
+
+---
+
+## Features (Functional Requirements) 
+The application is structured into three major functional modules, providing a logical workflow and clear input/output.
 
 | Module | Features Provided | Corresponding Project Concept |
 | :--- | :--- | :--- |
-| **1. Basic Arithmetic Module** | Addition (`+`), Subtraction (`-`), Multiplication (`x`), Division (`/`), Modulo (`mod`), and sign change (`±`). | [cite_start]**CRUD Operations** (Partial: Data Processing) [cite: 29] |
-| **2. Scientific Functions Module** | Trigonometric (`sin`, `cos`, `tan`, `sinh`, `cosh`, `tanh`), Logarithmic (`log`, `log2`, `log10`, `log1p`), Exponential (`exp`, `expm1`), constants (`pi`, `tau`, `e`), Square Root (`√`), and unit conversion (`deg`). | [cite_start]**Simulation or Visualization** (Mathematical Simulation) [cite: 31] |
-| **3. Input/Output Control Module** | Clear Entry (`C`), All Clear (`CE`), and persistent display of the current expression and result. | [cite_start]**Data Input & Processing** [cite: 26] |
+| **1. Basic Arithmetic Module** | Addition (`+`), Subtraction (`-`), Multiplication (`x`), Division (`/`), Modulo (`mod`), and sign change (`±`). | **CRUD Operations** (Partial: Data Processing)  |
+| **2. Scientific Functions Module** | Trigonometric (`sin`, `cos`, `tan`, `sinh`, `cosh`, `tanh`), Logarithmic (`log`, `log2`, `log10`, `log1p`), Exponential (`exp`, `expm1`), constants (`pi`, `tau`, `e`), Square Root (`√`), and unit conversion (`deg`). | **Simulation or Visualization** (Mathematical Simulation)  |
+| **3. Input/Output Control Module** | Clear Entry (`C`), All Clear (`CE`), and persistent display of the current expression and result. | **Data Input & Processing**  |
 
 ---
 
-## [cite_start]🛠️ Technologies/Tools Used [cite: 93]
+## Technologies/Tools Used 
 * **Programming Language:** Python
 * **GUI Framework:** Tkinter
 * **Scientific Library:** Python's built-in `math` module
-* [cite_start]**Version Control:** Git / GitHub [cite: 55]
-
+* **Version Control:** Git / GitHub 
 ---
 
-## [cite_start]🚀 Steps to Install & Run the Project [cite: 94]
+##  Steps to Install & Run the Project 
 
 ### Prerequisites
 * Python 3.x (Tkinter is included in standard Python installations)
@@ -54,8 +53,8 @@ This project implements a fully functional **Scientific Calculator** as a deskto
 
 ---
 
-## [cite_start]🧪 Instructions for Testing [cite: 95]
-[cite_start]The project utilizes **Validation and Error Handling** [cite: 54] techniques for robust operations.
+## Instructions for Testing 
+The project utilizes **Validation and Error Handling**  techniques for robust operations.
 
 ### Key Test Scenarios
 
@@ -69,4 +68,11 @@ This project implements a fully functional **Scientific Calculator** as a deskto
 
 ---
 
-## [cite_start]📷 Screenshots (Optional but Recommended) [cite: 96]
+##  Screenshots: 
+<img width="1589" height="746" alt="image" src="https://github.com/user-attachments/assets/74336af1-ecde-46c1-8450-78d2938f0601" />
+<img width="1585" height="745" alt="image" src="https://github.com/user-attachments/assets/be739750-bca1-40c9-904a-08039269eef0" />
+<img width="1589" height="739" alt="image" src="https://github.com/user-attachments/assets/a25e3088-4ab5-4e45-91ec-ac3e3d9d4b5e" />
+<img width="1584" height="735" alt="image" src="https://github.com/user-attachments/assets/72626f30-4277-4972-97ad-ce19c3c66c63" />
+
+
+
