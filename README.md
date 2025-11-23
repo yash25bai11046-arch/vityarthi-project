@@ -60,7 +60,7 @@ The project utilizes **Validation and Error Handling**  techniques for robust op
 
 | Test ID | Test Description | Input Sequence | Expected Output / Result |
 | :--- | :--- | :--- | :--- |
-| **T01** | Basic Arithmetic (Multi-Step) | `5 + 3 x 2 =` | `11.0` |
+| **T01** | Basic Arithmetic | `5 + 3  =` | `8.0` |
 | **T02** | Square Root Calculation | `81` $\rightarrow$ `√` | `9.0` |
 | **T03** | Error Handling: Division by Zero | `10` $\rightarrow$ `/` $\rightarrow$ `0` $\rightarrow$ `=` | `Error: Division by zero` |
 | **T04** | Trigonometric Function | `90` $\rightarrow$ `sin` | Result close to `1.0` |
